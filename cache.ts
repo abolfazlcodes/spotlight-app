@@ -1,4 +1,4 @@
-import { TokenCache } from "@clerk/clerk-expo";
+import { TokenCache } from "@clerk/clerk-expo/dist/cache";
 import * as SecureStore from "expo-secure-store";
 import { Platform } from "react-native";
 
